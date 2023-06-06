@@ -184,59 +184,57 @@ Dialogue: 3,0:04:51.60,0:04:54.60,Default,atg1,0,0,0,,{\fad(120,120)}另一边�
 Dialogue: 2,0:04:51.60,0:04:54.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}The French squad has been well beset by illness, hasn't it?
 Dialogue: 3,0:04:54.60,0:04:56.60,Default,atg1,0,0,0,,{\fad(120,120)}本周还有伤病问题
 Dialogue: 2,0:04:54.60,0:04:56.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}And injury issues this week
-Dialogue: 3,0:04:56.60,0:05:02.60,Default,atg1,0,0,0,,{\fad(120,120)}然而，迪迪埃·德尚在得知吉鲁从膝伤恢复这个消息之后大受鼓舞
+Dialogue: 3,0:04:56.60,0:05:02.60,Default,atg1,0,0,0,,{\fad(120,120)}然而，吉鲁从膝伤中恢复无疑对迪迪埃·德尚是个好消息
 Dialogue: 2,0:04:56.60,0:05:02.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}However, Didier Deschamps was boosted by the news that Giroud has overcome a knee injury to start
-Dialogue: 3,0:05:02.60,0:05:05.60,Default,atg1,0,0,0,,{\fad(120,120)}维拉诺和皮马卡诺已经摆脱了一种类似流感的疾病
-Dialogue: 2,0:05:02.60,0:05:05.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}Verrano and Pimacano have shaken off a flu-like illness
-Dialogue: 3,0:05:05.60,0:05:07.60,Default,atg1,0,0,0,,{\fad(120,120)}为了形成中央防线
+Dialogue: 3,0:05:02.60,0:05:05.60,Default,atg1,0,0,0,,{\fad(120,120)}瓦拉内和于帕梅卡诺已经从类似流感的疾病中康复
+Dialogue: 2,0:05:02.60,0:05:05.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}Varane and Upamecano have shaken off a flu-like illness
+Dialogue: 3,0:05:05.60,0:05:07.60,Default,atg1,0,0,0,,{\fad(120,120)}在本场比赛共同组成中央防线
 Dialogue: 2,0:05:05.60,0:05:07.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}to line up in central defence,
-Dialogue: 3,0:05:07.60,0:05:11.60,Default,atg1,0,0,0,,{\fad(120,120)}拉比奥也恢复了中场首发的位置
-Dialogue: 2,0:05:07.60,0:05:11.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}and Rabio has also recovered to start in midfield
-Dialogue: 3,0:05:11.60,0:05:14.60,Default,atg1,0,0,0,,{\fad(120,120)}关于迪·玛丽亚的简短消息，巴勃罗
+Dialogue: 3,0:05:07.60,0:05:11.60,Default,atg1,0,0,0,,{\fad(120,120)}拉比奥特也恢复了并担任本场比赛的首发中场
+Dialogue: 2,0:05:07.60,0:05:11.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}and Rabiot has also recovered to start in midfield
+Dialogue: 3,0:05:11.60,0:05:14.60,Default,atg1,0,0,0,,{\fad(120,120)}一条关于迪玛利亚的快讯，巴勃罗
 Dialogue: 2,0:05:11.60,0:05:14.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}Quick line on Di Maria, Pablo
-Dialogue: 3,0:05:14.60,0:05:16.60,Default,atg1,0,0,0,,{\fad(120,120)}他被录取了，你觉得奇怪吗?
+Dialogue: 3,0:05:14.60,0:05:16.60,Default,atg1,0,0,0,,{\fad(120,120)}他今天首发了，你会不会很惊讶
 Dialogue: 2,0:05:14.60,0:05:16.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}Is it surprising that he's got in?
-Dialogue: 3,0:05:16.60,0:05:18.60,Default,atg1,0,0,0,,{\fad(120,120)}他不怎么踢足球
-Dialogue: 2,0:05:16.60,0:05:18.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}He's not played much football
-Dialogue: 3,0:05:18.60,0:05:20.60,Default,atg1,0,0,0,,{\fad(120,120)}这并不令我惊讶
-Dialogue: 2,0:05:18.60,0:05:20.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}It doesn't surprise me
-Dialogue: 3,0:05:20.60,0:05:23.60,Default,atg1,0,0,0,,{\fad(120,120)}当他们在巴西赢得美洲杯冠军时，情况也是如此
-Dialogue: 2,0:05:20.60,0:05:23.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}It was exactly the same in Copa America when they won it in Brazil
-Dialogue: 3,0:05:23.60,0:05:26.60,Default,atg1,0,0,0,,{\fad(120,120)}他在决赛中被埃斯卡罗尼打伤了
-Dialogue: 2,0:05:23.60,0:05:26.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}He was injured by Escaloni playing him in the final
-Dialogue: 3,0:05:26.60,0:05:28.60,Default,atg1,0,0,0,,{\fad(120,120)}他在对巴西队的比赛中被抓住了
-Dialogue: 2,0:05:26.60,0:05:28.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}He's caught against Brazil
-Dialogue: 3,0:05:28.60,0:05:31.60,Default,atg1,0,0,0,,{\fad(120,120)}我认为这有点棘手，因为我们没有其他球员
-Dialogue: 2,0:05:28.60,0:05:31.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}I think it's a bit tricky because we don't have another player
-Dialogue: 3,0:05:31.60,0:05:32.60,Default,atg1,0,0,0,,{\fad(120,120)}来取代他
-Dialogue: 2,0:05:31.60,0:05:32.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}to replace him
-Dialogue: 3,0:05:32.60,0:05:35.60,Default,atg1,0,0,0,,{\fad(120,120)}他是我认为最有能力的人
-Dialogue: 2,0:05:32.60,0:05:35.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}He's the one that I think is driven ability still up there
-Dialogue: 3,0:05:35.60,0:05:36.60,Default,atg1,0,0,0,,{\fad(120,120)}作为最好的之一
-Dialogue: 2,0:05:35.60,0:05:36.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}as one of the best
-Dialogue: 3,0:05:36.60,0:05:39.60,Default,atg1,0,0,0,,{\fad(120,120)}他是今天能给特奥·埃尔南德斯制造麻烦的人之一
-Dialogue: 2,0:05:36.60,0:05:39.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}He's one of them that today can cause trouble to Teo Hernandez
+Dialogue: 3,0:05:16.60,0:05:17.73,Default,atg1,0,0,0,,{\fad(120,120)}他本届比赛登场时间并不多
+Dialogue: 2,0:05:16.60,0:05:17.73,Default-L2,atg2,0,0,0,,{\fad(120,120)}He's not played much football
+Dialogue: 3,0:05:17.73,0:05:18.64,Default,atg1,0,0,0,,{\fad(120,120)}我并不惊讶
+Dialogue: 2,0:05:17.73,0:05:18.64,Default-L2,atg2,0,0,0,,{\fad(120,120)}It doesn't surprise me
+Dialogue: 3,0:05:18.64,0:05:21.55,Default,atg1,0,0,0,,{\fad(120,120)}他们在巴西赢得美洲杯冠军时，也是一样的情况
+Dialogue: 2,0:05:18.64,0:05:21.55,Default-L2,atg2,0,0,0,,{\fad(120,120)}It was exactly the same in Copa America when they won it in Brazil
+Dialogue: 3,0:05:21.55,0:05:24.55,Default,atg1,0,0,0,,{\fad(120,120)}他在决赛前是受伤状态，但斯卡洛尼让他登场
+Dialogue: 2,0:05:21.55,0:05:24.55,Default-L2,atg2,0,0,0,,{\fad(120,120)}He was injured, but Scaloni playing him in the final
+Dialogue: 3,0:05:24.55,0:05:26.55,Default,atg1,0,0,0,,{\fad(120,120)}他在对巴西队的比赛中临危受命
+Dialogue: 2,0:05:24.55,0:05:26.55,Default-L2,atg2,0,0,0,,{\fad(120,120)}He's caught against Brazil
+Dialogue: 3,0:05:26.55,0:05:28.55,Default,atg1,0,0,0,,{\fad(120,120)}他曾一度很可能错过本届世界杯
+Dialogue: 2,0:05:26.55,0:05:28.55,Default-L2,atg2,0,0,0,,{\fad(120,120)}He’s been missed this world cup very likely 
+Dialogue: 3,0:05:28.55,0:05:30.76,Default,atg1,0,0,0,,{\fad(120,120)}因为我们没有其他优秀球员可以替代它
+Dialogue: 2,0:05:28.55,0:05:30.76,Default-L2,atg2,0,0,0,,{\fad(120,120)}Because we don't have another player to replace him
+Dialogue: 3,0:05:30.76,0:05:34.76,Default,atg1,0,0,0,,{\fad(120,120)}我认为他仍是最好的球员之一
+Dialogue: 2,0:05:30.76,0:05:34.76,Default-L2,atg2,0,0,0,,{\fad(120,120)}He's the one that I think is driven ability still up there as one of the best
+Dialogue: 3,0:05:34.76,0:05:39.60,Default,atg1,0,0,0,,{\fad(120,120)}他是今天能给特奥·埃尔南德斯制造麻烦的人之一
+Dialogue: 2,0:05:34.76,0:05:39.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}He's one of them that today can cause trouble to Teo Hernandez
 Dialogue: 3,0:05:39.60,0:05:40.60,Default,atg1,0,0,0,,{\fad(120,120)}是的
 Dialogue: 2,0:05:39.60,0:05:40.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}Yeah
 Dialogue: 3,0:05:40.60,0:05:42.60,Default,atg1,0,0,0,,{\fad(120,120)}令人垂涎的前景
 Dialogue: 2,0:05:40.60,0:05:42.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}Mouth-watering prospect this one
-Dialogue: 3,0:05:42.60,0:05:44.60,Default,atg1,0,0,0,,{\fad(120,120)}他什么都懂一点
+Dialogue: 3,0:05:42.60,0:05:44.60,Default,atg1,0,0,0,,{\fad(120,120)}他几乎都说到了
 Dialogue: 2,0:05:42.60,0:05:44.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}He's got a bit of everything
-Dialogue: 3,0:05:44.60,0:05:47.60,Default,atg1,0,0,0,,{\fad(120,120)}上个月我们打了63场比赛，
-Dialogue: 2,0:05:44.60,0:05:47.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}Yeah, 63 games we've had over the last month,
-Dialogue: 3,0:05:47.60,0:05:50.60,Default,atg1,0,0,0,,{\fad(120,120)}最后是最好的两支球队，最好的两名球员
-Dialogue: 2,0:05:47.60,0:05:50.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}and it's ended up with the best two teams, the best two players
-Dialogue: 3,0:05:50.60,0:05:52.60,Default,atg1,0,0,0,,{\fad(120,120)}我等不及了
-Dialogue: 2,0:05:50.60,0:05:52.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}And I cannot wait
-Dialogue: 3,0:05:52.60,0:05:54.60,Default,atg1,0,0,0,,{\fad(120,120)}它应该是宏伟的
-Dialogue: 2,0:05:52.60,0:05:54.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}It should be magnificent
-Dialogue: 3,0:05:54.60,0:05:56.60,Default,atg1,0,0,0,,{\fad(120,120)}我们应该有目标
-Dialogue: 2,0:05:54.60,0:05:56.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}We should have goals
-Dialogue: 3,0:05:56.60,0:05:59.60,Default,atg1,0,0,0,,{\fad(120,120)}阿尔瓦雷斯和吉鲁也都进了4球
-Dialogue: 2,0:05:56.60,0:05:59.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}Alvarez, Giroux all on four goals also
-Dialogue: 3,0:05:59.60,0:06:02.60,Default,atg1,0,0,0,,{\fad(120,120)}格列兹曼举办了一场精彩的比赛，所以应该很棒
+Dialogue: 3,0:05:44.60,0:05:46.46,Default,atg1,0,0,0,,{\fad(120,120)}上个月共进行了63场比赛
+Dialogue: 2,0:05:44.60,0:05:46.46,Default-L2,atg2,0,0,0,,{\fad(120,120)}Yeah, 63 games we've had over the last month,
+Dialogue: 3,0:05:46.46,0:05:50.60,Default,atg1,0,0,0,,{\fad(120,120)}最后是最好的两支球队，最好的两名球员在决赛中相遇
+Dialogue: 2,0:05:46.46,0:05:50.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}And it's ended up with the best two teams, the best two players
+Dialogue: 3,0:05:50.60,0:05:51.48,Default,atg1,0,0,0,,{\fad(120,120)}我等不及了
+Dialogue: 2,0:05:50.60,0:05:51.48,Default-L2,atg2,0,0,0,,{\fad(120,120)}And I cannot wait
+Dialogue: 3,0:05:51.48,0:05:53.48,Default,atg1,0,0,0,,{\fad(120,120)}它应该是宏伟的
+Dialogue: 2,0:05:51.48,0:05:53.48,Default-L2,atg2,0,0,0,,{\fad(120,120)}It should be magnificent
+Dialogue: 3,0:05:53.48,0:05:55.48,Default,atg1,0,0,0,,{\fad(120,120)}我们会看到进球
+Dialogue: 2,0:05:53.48,0:05:55.48,Default-L2,atg2,0,0,0,,{\fad(120,120)}We should have goals
+Dialogue: 3,0:05:55.48,0:05:59.60,Default,atg1,0,0,0,,{\fad(120,120)}提示一下目前梅西，姆巴佩，阿尔瓦雷斯和吉鲁也都进了4球
+Dialogue: 2,0:05:55.48,0:05:59.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}With mention, Messi, Mbappe, Alvarez, Giroud all on four goals also
+Dialogue: 3,0:05:59.60,0:06:02.60,Default,atg1,0,0,0,,{\fad(120,120)}格列兹曼也主导了一场精彩的比赛，所以应该很棒
 Dialogue: 2,0:05:59.60,0:06:02.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}Griezmann's had a magnificent tournament, so it should be great
-Dialogue: 3,0:06:02.60,0:06:04.60,Default,atg1,0,0,0,,{\fad(120,120)}不，不，我保证
+Dialogue: 3,0:06:02.60,0:06:04.60,Default,atg1,0,0,0,,{\fad(120,120)}不，不，是一定很棒
 Dialogue: 2,0:06:02.60,0:06:04.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}No, no, guaranteed
 Dialogue: 3,0:06:04.60,0:06:06.60,Default,atg1,0,0,0,,{\fad(120,120)}这应该是一部惊悚片，里约
 Dialogue: 2,0:06:04.60,0:06:06.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}It should be a thriller, Rio
@@ -254,19 +252,19 @@ Dialogue: 3,0:06:13.60,0:06:16.60,Default,atg1,0,0,0,,{\fad(120,120)}但我认�
 Dialogue: 2,0:06:13.60,0:06:16.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}But I think it's also, like Alvarez said there,
 Dialogue: 3,0:06:16.60,0:06:19.60,Default,atg1,0,0,0,,{\fad(120,120)}梦幻场景，两位超级巨星进入决赛
 Dialogue: 2,0:06:16.60,0:06:19.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}dream-dream scenario, getting two superstars in the final
-Dialogue: 3,0:06:19.60,0:06:22.60,Default,atg1,0,0,0,,{\fad(120,120)}两支伟大的球队，两位超级巨星正面交锋
-Dialogue: 2,0:06:19.60,0:06:22.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}Two great teams, two superstars going head to head
-Dialogue: 3,0:06:22.60,0:06:24.60,Default,atg1,0,0,0,,{\fad(120,120)}这可能是警卫的变动，
-Dialogue: 2,0:06:22.60,0:06:24.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}This could be the change in the guard,
-Dialogue: 3,0:06:24.60,0:06:27.60,Default,atg1,0,0,0,,{\fad(120,120)}也可能是每个人都想要的童话和信息
-Dialogue: 2,0:06:24.60,0:06:27.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}or it could be the fairytale and the message that everyone's asking for
+Dialogue: 3,0:06:19.60,0:06:22.95,Default,atg1,0,0,0,,{\fad(120,120)}两支伟大的球队，两位超级巨星正面交锋
+Dialogue: 2,0:06:19.60,0:06:22.95,Default-L2,atg2,0,0,0,,{\fad(120,120)}Two great teams, two superstars going head to head
+Dialogue: 3,0:06:22.95,0:06:24.60,Default,atg1,0,0,0,,{\fad(120,120)}足球之神可能易主
+Dialogue: 2,0:06:22.95,0:06:24.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}This could be the change in the god,
+Dialogue: 3,0:06:24.60,0:06:27.60,Default,atg1,0,0,0,,{\fad(120,120)}也可能是梅西迎来童话故事般的结尾，这也是大家乐见的
+Dialogue: 2,0:06:24.60,0:06:27.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}or it could be the fairytale end for Messi that everyone's asking for
 Dialogue: 3,0:06:27.60,0:06:28.60,Default,atg1,0,0,0,,{\fad(120,120)}我们拭目以待
 Dialogue: 2,0:06:27.60,0:06:28.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}So we'll see
 Dialogue: 3,0:06:28.60,0:06:29.60,Default,atg1,0,0,0,,{\fad(120,120)}我们会的
 Dialogue: 2,0:06:28.60,0:06:29.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}We will
 Dialogue: 3,0:06:29.60,0:06:33.60,Default,atg1,0,0,0,,{\fad(120,120)}巴勃罗，告诉我在世界杯决赛的早晨醒来是什么感觉
 Dialogue: 2,0:06:29.60,0:06:33.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}Pablo, tell me what it's like waking up on the morning of a World Cup final
-Dialogue: 3,0:06:33.60,0:06:35.60,Default,atg1,0,0,0,,{\fad(120,120)}知道你要去玩
+Dialogue: 3,0:06:33.60,0:06:35.60,Default,atg1,0,0,0,,{\fad(120,120)}知道你要去比赛
 Dialogue: 2,0:06:33.60,0:06:35.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}and knowing that you're going to be playing
 Dialogue: 3,0:06:35.60,0:06:40.60,Default,atg1,0,0,0,,{\fad(120,120)}我记得，我的第一个想法就是今天
 Dialogue: 2,0:06:35.60,0:06:40.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}Well, I remember, my first thought was today's the day
@@ -300,30 +298,30 @@ Dialogue: 3,0:07:15.60,0:07:19.60,Default,atg1,0,0,0,,{\fad(120,120)}而里约�
 Dialogue: 2,0:07:15.60,0:07:19.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}And Rio, it's just one of those days that is a World Cup final
 Dialogue: 3,0:07:19.60,0:07:21.60,Default,atg1,0,0,0,,{\fad(120,120)}然后你就会想，这要花多长时间
 Dialogue: 2,0:07:19.60,0:07:21.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}And then you're just thinking, how long is it going to take
-Dialogue: 3,0:07:21.60,0:07:25.60,Default,atg1,0,0,0,,{\fad(120,120)}有机会玩那种游戏?
+Dialogue: 3,0:07:21.60,0:07:25.60,Default,atg1,0,0,0,,{\fad(120,120)}有机会参加这样的比赛
 Dialogue: 2,0:07:21.60,0:07:25.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}to have an opportunity to play that kind of game?
 Dialogue: 3,0:07:25.60,0:07:27.60,Default,atg1,0,0,0,,{\fad(120,120)}所以阿根廷花了8年时间
 Dialogue: 2,0:07:25.60,0:07:27.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}So it was eight years for Argentina
 Dialogue: 3,0:07:27.60,0:07:29.60,Default,atg1,0,0,0,,{\fad(120,120)}哦，是的，不可思议
 Dialogue: 2,0:07:27.60,0:07:29.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}Oh, yeah, incredible
-Dialogue: 3,0:07:29.60,0:07:32.60,Default,atg1,0,0,0,,{\fad(120,120)}闭幕式正在进行中
+Dialogue: 3,0:07:29.60,0:07:32.60,Default,atg1,0,0,0,,{\fad(120,120)}闭幕式的彩排正在进行中
 Dialogue: 2,0:07:29.60,0:07:32.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}The closing ceremony is just getting underway
 Dialogue: 3,0:07:32.60,0:07:35.60,Default,atg1,0,0,0,,{\fad(120,120)}记住，它在Red Button网站和iPlayer上直播
 Dialogue: 2,0:07:32.60,0:07:35.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}Remember, it's live on the Red Button website and iPlayer
 Dialogue: 3,0:07:35.60,0:07:39.60,Default,atg1,0,0,0,,{\fad(120,120)}如果你这周想看国际足联主席詹尼·因凡蒂诺，
 Dialogue: 2,0:07:35.60,0:07:39.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}If you want to watch FIFA President Gianni Infantino this week,
-Dialogue: 3,0:07:39.60,0:07:42.60,Default,atg1,0,0,0,,{\fad(120,120)}称这是有史以来最好的世界杯
+Dialogue: 3,0:07:39.60,0:07:42.60,Default,atg1,0,0,0,,{\fad(120,120)}号称的有史以来最好的世界杯
 Dialogue: 2,0:07:39.60,0:07:42.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}called it the best World Cup ever
 Dialogue: 3,0:07:42.60,0:07:43.60,Default,atg1,0,0,0,,{\fad(120,120)}我就知道你会的
 Dialogue: 2,0:07:42.60,0:07:43.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}I had a feeling you might
 Dialogue: 3,0:07:43.60,0:07:47.60,Default,atg1,0,0,0,,{\fad(120,120)}马克·查普曼一直在思考人们将如何记住这场比赛
 Dialogue: 2,0:07:43.60,0:07:47.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}Mark Chapman has been reflecting on how the tournament will be remembered
-Dialogue: 3,0:07:50.60,0:07:54.60,Default,atg1,0,0,0,,{\fad(120,120)}冬天，2022年，还有世界杯
-Dialogue: 2,0:07:50.60,0:07:54.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}Winter, 2022, and the World Cup
+Dialogue: 3,0:07:52.55,0:07:54.60,Default,atg1,0,0,0,,{\fad(120,120)}冬天，2022年，还有世界杯
+Dialogue: 2,0:07:52.55,0:07:54.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}Winter, 2022, and the World Cup
 Dialogue: 3,0:07:54.60,0:07:57.60,Default,atg1,0,0,0,,{\fad(120,120)}这一切始于一种感觉
 Dialogue: 2,0:07:54.60,0:07:57.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}And it began with a feeling
-Dialogue: 3,0:07:57.60,0:07:59.60,Default,atg1,0,0,0,,{\fad(120,120)}今天，我感到卡塔里
-Dialogue: 2,0:07:57.60,0:07:59.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}Today, I feel Katari
+Dialogue: 3,0:07:57.60,0:07:59.60,Default,atg1,0,0,0,,{\fad(120,120)}今天，我感到卡塔尔
+Dialogue: 2,0:07:57.60,0:07:59.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}Today, I feel Qatari
 Dialogue: 3,0:07:59.60,0:08:01.60,Default,atg1,0,0,0,,{\fad(120,120)}一种感觉，无论是卡塔尔还是国际足联
 Dialogue: 2,0:07:59.60,0:08:01.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}A feeling that both Katar and FIFA
 Dialogue: 3,0:08:01.60,0:08:04.60,Default,atg1,0,0,0,,{\fad(120,120)}我们要按照自己的方式来做
@@ -344,11 +342,9 @@ Dialogue: 3,0:08:13.60,0:08:15.60,Default,atg1,0,0,0,,{\fad(120,120)}你现在�
 Dialogue: 2,0:08:13.60,0:08:15.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}that you want to talk about right now
 Dialogue: 3,0:08:15.60,0:08:17.60,Default,atg1,0,0,0,,{\fad(120,120)}因凡蒂诺说
 Dialogue: 2,0:08:15.60,0:08:17.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}Inclusion was in, said Infantino
-Dialogue: 3,0:08:17.60,0:08:18.60,Default,atg1,0,0,0,,{\fad(120,120)}大家都欢迎
-Dialogue: 2,0:08:17.60,0:08:18.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}Everyone is welcome
-Dialogue: 3,0:08:18.60,0:08:19.60,Default,atg1,0,0,0,,{\fad(120,120)}大家都欢迎
-Dialogue: 2,0:08:18.60,0:08:19.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}Everyone is welcome
-Dialogue: 3,0:08:19.60,0:08:21.60,Default,atg1,0,0,0,,{\fad(120,120)}我们的乐队解散了
+Dialogue: 3,0:08:17.60,0:08:19.60,Default,atg1,0,0,0,,{\fad(120,120)}所有人都会受欢迎
+Dialogue: 2,0:08:17.60,0:08:19.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}Everyone is welcome
+Dialogue: 3,0:08:19.60,0:08:21.60,Default,atg1,0,0,0,,{\fad(120,120)}我们的袖标登场了
 Dialogue: 2,0:08:19.60,0:08:21.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}Our bands were out
 Dialogue: 3,0:08:21.60,0:08:24.60,Default,atg1,0,0,0,,{\fad(120,120)}德国抗议
 Dialogue: 2,0:08:21.60,0:08:24.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}Germany protested
@@ -356,7 +352,7 @@ Dialogue: 3,0:08:24.60,0:08:27.60,Default,atg1,0,0,0,,{\fad(120,120)}但沉默�
 Dialogue: 2,0:08:24.60,0:08:27.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}But it was their fans who were silent
 Dialogue: 3,0:08:27.60,0:08:29.60,Default,atg1,0,0,0,,{\fad(120,120)}另一个沉默,
 Dialogue: 2,0:08:27.60,0:08:29.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}Another silence,
-Dialogue: 3,0:08:29.60,0:08:32.60,Default,atg1,0,0,0,,{\fad(120,120)}展现出有时沉默的力量
+Dialogue: 3,0:08:29.60,0:08:32.60,Default,atg1,0,0,0,,{\fad(120,120)}则展现出沉默的力量
 Dialogue: 2,0:08:29.60,0:08:32.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}showing the power of sometimes saying nothing
 Dialogue: 3,0:08:34.60,0:08:37.60,Default,atg1,0,0,0,,{\fad(120,120)}阳光明媚，但彩虹上乌云密布
 Dialogue: 2,0:08:34.60,0:08:37.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}Lots of sunshine, but a cloud over rainbows
@@ -364,24 +360,22 @@ Dialogue: 3,0:08:37.60,0:08:39.60,Default,atg1,0,0,0,,{\fad(120,120)}希望他�
 Dialogue: 2,0:08:37.60,0:08:39.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}Hopefully they'll let us in
 Dialogue: 3,0:08:39.60,0:08:41.60,Default,atg1,0,0,0,,{\fad(120,120)}尽管如此，足球还是成功了
 Dialogue: 2,0:08:39.60,0:08:41.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}The football, though, delivered
-Dialogue: 3,0:08:44.60,0:08:46.60,Default,atg1,0,0,0,,{\fad(120,120)}这对19岁的女孩来说是多么重要的一刻啊!
+Dialogue: 3,0:08:44.60,0:08:46.60,Default,atg1,0,0,0,,{\fad(120,120)}这对19岁的孩子来说是多么美妙的一刻啊
 Dialogue: 2,0:08:44.60,0:08:46.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}What a moment for the 19-year-old!
-Dialogue: 3,0:08:46.60,0:08:49.60,Default,atg1,0,0,0,,{\fad(120,120)}金童，一种沙特阿拉伯足球
+Dialogue: 3,0:08:46.60,0:08:49.60,Default,atg1,0,0,0,,{\fad(120,120)}代表沙特阿拉伯足球的黄金男孩
 Dialogue: 2,0:08:46.60,0:08:49.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}The Golden Boy, a Saudi Arabian football
 Dialogue: 3,0:08:49.60,0:08:52.60,Default,atg1,0,0,0,,{\fad(120,120)}世界杯全场表演之一
 Dialogue: 2,0:08:49.60,0:08:52.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}One of the World Cup all-time shows
-Dialogue: 3,0:08:52.60,0:08:53.60,Default,atg1,0,0,0,,{\fad(120,120)}它在!
+Dialogue: 3,0:08:52.60,0:08:53.60,Default,atg1,0,0,0,,{\fad(120,120)}射门了
 Dialogue: 2,0:08:52.60,0:08:53.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}It's on!
 Dialogue: 3,0:08:53.60,0:08:55.60,Default,atg1,0,0,0,,{\fad(120,120)}这很特别
 Dialogue: 2,0:08:53.60,0:08:55.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}That is special
 Dialogue: 3,0:08:55.60,0:08:57.60,Default,atg1,0,0,0,,{\fad(120,120)}小心威尔士!
 Dialogue: 2,0:08:55.60,0:08:57.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}Look out for Wales!
-Dialogue: 3,0:09:00.60,0:09:02.60,Default,atg1,0,0,0,,{\fad(120,120)}是Reshford!
-Dialogue: 2,0:09:00.60,0:09:02.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}It is Reshford!
-Dialogue: 3,0:09:02.60,0:09:04.60,Default,atg1,0,0,0,,{\fad(120,120)}我们会走出更衣室
-Dialogue: 2,0:09:02.60,0:09:04.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}We'll walk out of that change room
-Dialogue: 3,0:09:04.60,0:09:07.60,Default,atg1,0,0,0,,{\fad(120,120)}让我们昂首挺胸，为彼此感到骄傲
-Dialogue: 2,0:09:04.60,0:09:07.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}to our heads held high and proud of each other
+Dialogue: 3,0:09:00.60,0:09:02.60,Default,atg1,0,0,0,,{\fad(120,120)}拉什福德！
+Dialogue: 2,0:09:00.60,0:09:02.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}It is Rashford!
+Dialogue: 3,0:09:02.60,0:09:07.60,Default,atg1,0,0,0,,{\fad(120,120)}我们会昂首挺胸走出更衣室，为彼此感到骄傲
+Dialogue: 2,0:09:02.60,0:09:07.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}We'll walk out of that change room with our heads held high and proud of each other
 Dialogue: 3,0:09:07.60,0:09:09.60,Default,atg1,0,0,0,,{\fad(120,120)}对于球迷来说，这届世界杯是独一无二的
 Dialogue: 2,0:09:07.60,0:09:09.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}For the fans, this World Cup felt unique
 Dialogue: 3,0:09:09.60,0:09:12.60,Default,atg1,0,0,0,,{\fad(120,120)}他们聚集在地铁上
@@ -390,15 +384,15 @@ Dialogue: 3,0:09:12.60,0:09:15.60,Default,atg1,0,0,0,,{\fad(120,120)}他们一�
 Dialogue: 2,0:09:12.60,0:09:15.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}They could take in two games in a day
 Dialogue: 3,0:09:15.60,0:09:17.60,Default,atg1,0,0,0,,{\fad(120,120)}哦，我的天哪!
 Dialogue: 2,0:09:15.60,0:09:17.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}Oh, my goodness!
-Dialogue: 3,0:09:17.60,0:09:20.60,Default,atg1,0,0,0,,{\fad(120,120)}现在，酒精创造了更友好的气氛
-Dialogue: 2,0:09:17.60,0:09:20.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}Now, alcohol created kinder atmospheres
+Dialogue: 3,0:09:17.60,0:09:22.15,Default,atg1,0,0,0,,{\fad(120,120)}没有酒精则创造了更友好的气氛
+Dialogue: 2,0:09:17.60,0:09:22.15,Default-L2,atg2,0,0,0,,{\fad(120,120)}No alcohol created kinder atmospheres
 Dialogue: 3,0:09:23.60,0:09:26.60,Default,atg1,0,0,0,,{\fad(120,120)}小组赛阶段被誉为有史以来最好的一届
 Dialogue: 2,0:09:23.60,0:09:26.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}The group stage was hailed as the best ever
-Dialogue: 3,0:09:26.60,0:09:28.60,Default,atg1,0,0,0,,{\fad(120,120)}120年的目标,
+Dialogue: 3,0:09:26.60,0:09:28.60,Default,atg1,0,0,0,,{\fad(120,120)}120个进球,
 Dialogue: 2,0:09:26.60,0:09:28.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}120 goals,
-Dialogue: 3,0:09:28.60,0:09:31.60,Default,atg1,0,0,0,,{\fad(120,120)}大的表演,
-Dialogue: 2,0:09:28.60,0:09:31.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}big performances,
-Dialogue: 3,0:09:31.60,0:09:33.60,Default,atg1,0,0,0,,{\fad(120,120)}甚至更大的冲击
+Dialogue: 3,0:09:29.49,0:09:31.60,Default,atg1,0,0,0,,{\fad(120,120)}伟大的表演,
+Dialogue: 2,0:09:29.49,0:09:31.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}big performances,
+Dialogue: 3,0:09:31.60,0:09:33.60,Default,atg1,0,0,0,,{\fad(120,120)}和更大的震惊
 Dialogue: 2,0:09:31.60,0:09:33.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}and even bigger shocks
 Dialogue: 3,0:09:33.60,0:09:36.60,Default,atg1,0,0,0,,{\fad(120,120)}日本进入16强
 Dialogue: 2,0:09:33.60,0:09:36.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}Japan reached the round of 16
@@ -416,8 +410,8 @@ Dialogue: 3,0:09:50.60,0:09:52.60,Default,atg1,0,0,0,,{\fad(120,120)}但是世�
 Dialogue: 2,0:09:50.60,0:09:52.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}But the rest of the world made this one
 Dialogue: 3,0:09:52.60,0:09:55.60,Default,atg1,0,0,0,,{\fad(120,120)}最多样化的淘汰赛阶段之一
 Dialogue: 2,0:09:52.60,0:09:55.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}of the most diverse knockout stages ever
-Dialogue: 3,0:09:55.60,0:09:57.60,Default,atg1,0,0,0,,{\fad(120,120)}不!
-Dialogue: 2,0:09:55.60,0:09:57.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}No!
+Dialogue: 3,0:09:55.60,0:09:57.60,Default,atg1,0,0,0,,{\fad(120,120)}耶！
+Dialogue: 2,0:09:55.60,0:09:57.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}Yeah！
 Dialogue: 3,0:09:59.60,0:10:03.60,Default,atg1,0,0,0,,{\fad(120,120)}现在是世界杯之旅的第二阶段
 Dialogue: 2,0:09:59.60,0:10:03.60,Default-L2,atg2,0,0,0,,{\fad(120,120)}It's time for Stage 2 of the World Cup journey
 Dialogue: 3,0:10:03.60,0:10:05.60,Default,atg1,0,0,0,,{\fad(120,120)}梅西!
