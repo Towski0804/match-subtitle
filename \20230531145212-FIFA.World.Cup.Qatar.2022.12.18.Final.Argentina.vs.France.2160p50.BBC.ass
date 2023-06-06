@@ -16,8 +16,8 @@ Video Zoom Percent: 1
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,PingFang SC,58,&H00FFFFFF,&H00FFFFFF,&H19533B3B,&H910E0807,0,0,0,0,100.0,100.0,0.0,0.0,1,3.1,1.2,2,135,135,122,1
-Style: Default-L2,PingFang SC,58,&H00FFFFFF,&H00FFFFFF,&H19695857,&H910E0807,0,0,0,0,100.0,100.0,0.0,0.0,1,2.1,0.0,2,135,135,43,1
+Style: Default,PingFang SC,75,&H00FFFFFF,&H00FFFFFF,&H19533B3B,&H910E0807,0,0,0,0,100.0,100.0,0.0,0.0,1,3.1,1.2,2,135,135,122,1
+Style: Default-L2,PingFang SC,75,&H00FFFFFF,&H00FFFFFF,&H19695857,&H910E0807,0,0,0,0,100.0,100.0,0.0,0.0,1,2.1,0.0,2,135,135,43,1
 Style: Default-Box,PingFang SC,58,&H00FFFFFF,&H00FFFFFF,&H41000000,&HFF000000,0,0,0,0,100.0,100.0,0.0,0.0,3,8.5,0.0,2,135,135,65,1
 Style: Pingfang-1920x1080,PingFang SC,60,&H00FFFFFF,&H00FFFFFF,&H19533B3B,&H910E0807,0,0,0,0,100.0,100.0,0.0,0.0,1,4.2,1.5,2,200,200,102,1
 Style: Pingfang-4K,PingFang SC,120,&H00FFFFFF,&H00FFFFFF,&H16534241,&HE12E2625,0,0,0,0,100.0,100.0,0.0,0.0,1,4.5,2.5,2,200,200,110,1
